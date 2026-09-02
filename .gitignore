@@ -3,6 +3,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
+# 虚拟环境
+venv/
+
 # 生成文件
 strategy_result.txt
 
