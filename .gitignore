@@ -1,0 +1,11 @@
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 生成文件
+strategy_result.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
