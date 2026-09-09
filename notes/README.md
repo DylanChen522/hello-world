@@ -26,6 +26,8 @@ notes/
 | 01-python | [Python基础核心笔记](01-python/01-Python基础核心笔记.md) | ✅ 已完成 |
 | 01-python | [虚拟环境venv与依赖管理](01-python/02-虚拟环境venv与依赖管理.md) | ✅ 已完成 |
 | 01-python | [变量/列表/字典/循环·100行练习](01-python/03-变量列表字典循环练习.py) | ✅ 已完成 |
+| 01-python | [pandas数据分析·茅台行情](01-python/04-pandas数据分析-茅台行情.py) | ✅ 已完成 |
+| 01-python | [列表推导式与字典嵌套练习](01-python/05-列表推导式与字典嵌套练习.py) | ✅ 已完成 |
 | 02-git | [Git核心笔记](02-git/01-Git核心笔记.md) | ✅ 已完成 |
 | 03-markdown | [Markdown基础教程](03-markdown/01-Markdown基础教程.md) | ✅ 已完成 |
 | 04-quant | [投教公众号定位与第一篇成稿](04-quant/01-投教公众号定位与第一篇成稿.md) | ✅ 已完成 |
